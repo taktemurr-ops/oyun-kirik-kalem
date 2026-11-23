@@ -16,7 +16,7 @@ dependencies:
   parti_motoru:
     git:
       url: https://github.com/taktemurr-ops/parti-motoru
-      ref: main
+      ref: 2b74679743724c2ef011739345e98b9d811edcee
 
 dev_dependencies:
   flutter_test:
